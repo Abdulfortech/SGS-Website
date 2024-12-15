@@ -6,8 +6,8 @@
     <div class="col-lg-3 col-md-6 d-flex">
       <i class="bi bi-geo-alt icon"></i>
       <div class="address">
-        <h4>Address</h4>
-        <p>No. 000 Yakasai A,</p>
+        <h4>Head Office</h4>
+        <p>Yar Akwa, Na’ibawa, Zaria Road,</p>
         <p>Kano, Nigeria.</p>
         <p></p>
       </div>
@@ -20,7 +20,7 @@
         <h4>Contact</h4>
         <p>
           <strong>Phone:</strong> <span>+234 806 745 6793</span><br>
-          <strong>Email:</strong> <span>info@sgs.com.ng</span><br>
+          <strong>Email:</strong> <span>abdul@abdulfortech.com</span><br>
         </p>
       </div>
     </div>
