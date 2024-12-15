@@ -9,7 +9,7 @@
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/sgs/logo.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
@@ -40,33 +40,36 @@
       <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
         <div class="carousel-item active">
-          <img src="assets/img/hero-carousel/hero-carousel-1.jpg" alt="">
+          <img src="assets/img/sgs/bg (1).webp" alt="">
           <div class="carousel-container">
             <div>
               <p>Welcome To</p>
               <h2><span>SGS Engineering</span></h2>
+              <h5>A firm of experienced, resourceful and committed professionals, offering cross-sectoral enginnering services.</h5>
               <a href="https://wa.me/+2348067456793/?text=Hi" class="btn-get-started"><i class="fab fa-whatsapp"></i> Contact Us</a>
             </div>
           </div>
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
-          <img src="assets/img/hero-carousel/hero-carousel-2.jpg" alt="">
+          <img src="assets/img/sgs/bg (1).jpg" alt="">
           <div class="carousel-container">
             <div>
-            <p>Welcome To</p>
-              <h2><span>SGS Engineering</span></h2>
+            <!-- <p>Welcome To</p> -->
+              <h2><span>Construction Services</span></h2>
+              <h5>Our firm is excellent in delivering construction services ranging from apartment buildings, to road and bridges.</h5>
               <a href="https://wa.me/+2348067456793/?text=Hi" class="btn-get-started"><i class="fab fa-whatsapp"></i> Contact Us</a>
             </div>
           </div>
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
-          <img src="assets/img/hero-carousel/hero-carousel-3.jpg" alt="">
+          <img src="assets/img/sgs/bg (1).jpeg" alt="">
           <div class="carousel-container">
             <div>
-            <p>Welcome To</p>
-              <h2><span>SGS Engineering</span></h2>
+            <!-- <p>Welcome To</p> -->
+              <h2><span>Oil and Gas</span></h2>
+              <h5>We are offering services on oil and gas, especially on CNG supply, convertion of vehicles and building its infrastructure.</h5>
               <a href="https://wa.me/+2348067456793/?text=Hi" class="btn-get-started"><i class="fab fa-whatsapp"></i> Contact Us</a>
             </div>
           </div>
@@ -112,9 +115,8 @@
             </p>
 
             <center>
-                <a href="#" class="btn btn-lg btn-success">Read More</a>
+                <a href="about.php" class="btn btn-lg primary-btn">Read More</a>
             </center>
-
           </div>
 
           <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
@@ -147,7 +149,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Our Services</h2>
-        <p>SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services</p>
+        <p>Below are the list of qualitative services provided by SGS Engineering</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -160,9 +162,22 @@
                 <i class="bi bi-bounding-box-circles"></i>
               </div>
               <a href="#" class="stretched-link">
+                <h3>Oil and Gas</h3>
+              </a>
+              <p>SGS Engineering provide range of services in oil and gas ranging from research, design, construction and supervision of oil/gas infrastructure.</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item  position-relative">
+              <div class="icon">
+                <i class="bi bi-bounding-box-circles"></i>
+              </div>
+              <a href="#" class="stretched-link">
                 <h3>Building Construction</h3>
               </a>
-              <p>SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services sdddd</p>
+              <p>SGS Engineering delivers robust and innovative building construction solutions, combining quality materials and expert craftsmanship to create enduring structures tailored to your needs.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -174,7 +189,7 @@
               <a href="#" class="stretched-link">
                 <h3>Building Maintenance</h3>
               </a>
-              <p>SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services</p>
+              <p>Our comprehensive building maintenance services ensure your structures remain in excellent condition, with timely repairs, inspections, and enhancements to prolong their lifespan.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -186,7 +201,7 @@
               <a href="#" class="stretched-link">
                 <h3>Final Finishing</h3>
               </a>
-              <p>SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services</p>
+              <p>Elevate your spaces with our meticulous final finishing services, providing flawless interiors and exteriors that enhance the aesthetics and functionality of your projects.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -198,7 +213,7 @@
               <a href="#" class="stretched-link">
                 <h3>Road, Highway & Drainage Constraction</h3>
               </a>
-              <p>SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services</p>
+              <p>Our expertise in road, highway, and drainage construction delivers durable infrastructure solutions that improve connectivity and manage water flow effectively for sustainable development.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -210,7 +225,7 @@
               <a href="#" class="stretched-link">
                 <h3>Construction Management</h3>
               </a>
-              <p>SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services</p>
+              <p>SGS Engineering offers expert construction management services, overseeing every phase of your project to ensure timely completion, cost efficiency, and uncompromised quality.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -223,7 +238,7 @@
               <a href="#" class="stretched-link">
                 <h3>Procurement</h3>
               </a>
-              <p>SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services</p>
+              <p>With a strategic approach to procurement, we source high-quality materials and equipment, ensuring your projects benefit from cost-effective and reliable supplies.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->

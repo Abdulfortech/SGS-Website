@@ -68,7 +68,7 @@
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h3>Address</h3>
-                <p>No. 000 Yakasai A, Kano, Nigeria.</p>
+                <p>No. Yar Akwa, Na’ibawa, Zaria Road, Kano, Nigeria.</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -84,7 +84,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>Email Us</h3>
-                <p>info@sgs.com.ng</p>
+                <p>abdul@abdulfortech.com</p>
               </div>
             </div><!-- End Info Item -->
 
