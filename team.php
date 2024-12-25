@@ -73,7 +73,7 @@
             <div class="member">
               <div class="pic"><img src="assets/img/abdulfortech.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Abdullahi Aminu Mudi</h4>
+                <h4>HUZAIFA IBRAHIM GWADABE</h4>
                 <span>Chief Executive Officer</span>
                 <div class="social">
                   
@@ -84,9 +84,9 @@
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
-              <div class="pic"><img src="assets/img/abdulfortech.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/sgs/auwal.jpeg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Abdullahi Aminu Mudi</h4>
+                <h4>Engr-Tech Auwal Abubakar</h4>
                 <span>Chief Executive Officer</span>
                 <div class="social">
                   
@@ -99,10 +99,10 @@
             <div class="member">
               <div class="pic"><img src="assets/img/abdulfortech.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Abdullahi Aminu Mudi</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Mr Henry Mkpong</h4>
+                <span>Director commercial services SGS</span>
                 <div class="social">
-                  
+                  <!-- <i class="fa fa-phone"></i> -->
                 </div>
               </div>
             </div>

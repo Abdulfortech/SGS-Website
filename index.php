@@ -23,6 +23,7 @@
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
 
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
@@ -168,6 +169,29 @@
             </div>
           </div><!-- End Service Item -->
 
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item  position-relative">
+              <div class="icon">
+                <i class="bi bi-bounding-box-circles"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>CNG Supply</h3>
+              </a>
+              <p>SGS Engineering provide high-quality CNG to our customers, ensuring a reliable and efficient energy supply.</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item  position-relative">
+              <div class="icon">
+                <i class="bi bi-bounding-box-circles"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>CNG Vehicle Conversion</h3>
+              </a>
+              <p>We offer CNG vehicle conversion services, enabling our customers to switch to a cleaner, more cost-effective fuel option.</p>
+            </div>
+          </div><!-- End Service Item -->
           
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item  position-relative">
@@ -236,7 +260,7 @@
                 <i class="bi bi-bounding-box-circles"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Procurement</h3>
+                <h3>Procurement & Consultation</h3>
               </a>
               <p>With a strategic approach to procurement, we source high-quality materials and equipment, ensuring your projects benefit from cost-effective and reliable supplies.</p>
               <a href="#" class="stretched-link"></a>
@@ -307,89 +331,68 @@
 
     </section><!-- /Stats Section -->
 
-    <!-- projects Section -->
-    <section id="projects" class="projects section">
-
-      <!-- Section Title -->
+    
+    <!-- ======= portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
+      <!-- section title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Projects Portfolio</h2>
         <p>Some of our works at SGS Engineering</p>
       </div><!-- End Section Title -->
 
-      <div class="container">
+      <div class="container" data-aos="fade-up">
 
-        <div class="row gy-4">
+        <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card project-item  position-relative">
-                <img src="assets/img/about-company-1.jpg" alt="">
-                <div class="card-body">
-                    <a href="#" class="stretched-link">
-                        <h3>Building Construction Building Construction Building </h3>
-                    </a>
+            <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/sgs/img (1).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>A CNG Boat Engine</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/sgs/img (1).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
                 </div>
-            </div>
-          </div><!-- End project Item -->
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card project-item  position-relative">
-                <img src="assets/img/about-company-1.jpg" alt="">
-                <div class="card-body">
-                    <a href="#" class="stretched-link">
-                        <h3>Building Construction Building Construction Building </h3>
-                    </a>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/sgs/img (2).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>CNG Cylinder</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/sgs/img (2).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Cylinder"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
                 </div>
-            </div>
-          </div><!-- End project Item -->
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card project-item  position-relative">
-                <img src="assets/img/about-company-1.jpg" alt="">
-                <div class="card-body">
-                    <a href="#" class="stretched-link">
-                        <h3>Building Construction Building Construction Building </h3>
-                    </a>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/sgs/img (3).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Engine</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/sgs/img (3).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
                 </div>
+                
             </div>
-          </div><!-- End project Item -->
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card project-item  position-relative">
-                <img src="assets/img/about-company-1.jpg" alt="">
-                <div class="card-body">
-                    <a href="#" class="stretched-link">
-                        <h3>Building Construction Building Construction Building </h3>
-                    </a>
-                </div>
-            </div>
-          </div><!-- End project Item -->
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card project-item  position-relative">
-                <img src="assets/img/about-company-1.jpg" alt="">
-                <div class="card-body">
-                    <a href="#" class="stretched-link">
-                        <h3>Building Construction Building Construction Building </h3>
-                    </a>
-                </div>
-            </div>
-          </div><!-- End project Item -->
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card project-item  position-relative">
-                <img src="assets/img/about-company-1.jpg" alt="">
-                <div class="card-body">
-                    <a href="#" class="stretched-link">
-                        <h3>Building Construction Building Construction Building </h3>
-                    </a>
-                </div>
-            </div>
-          </div><!-- End project Item -->
-
         </div>
-
+        
         <center>
-            <a href="" class="btn main-btn my-3">View More</a>
+            <a href="portfolio.php" class="btn main-btn my-3">View More</a>
         </center>
-
       </div>
-
-    </section><!-- /Services Section -->
+    </section>
 
     <!-- Teams Section -->
     <section id="agents" class="agents section">
@@ -592,6 +595,7 @@
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
 
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>

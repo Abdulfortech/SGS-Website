@@ -125,7 +125,7 @@
             <h3>Objectives</h3>
            <p>
                 <ol>
-                    <li>Reduce greenhouse gas emissions and air pollution in Lagos</li>
+                    <li>Reduce greenhouse gas emissions and air pollution in Nigeria</li>
                     <li>Provide a cost-effective alternative fuel option for public transportation</li>
                     <li>Create employment opportunities in the CNG industry</li>
                     <li>Enhance energy security and reduce dependence on imported fuels</li>

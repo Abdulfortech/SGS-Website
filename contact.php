@@ -76,7 +76,7 @@
               <i class="bi bi-telephone flex-shrink-0"></i>
               <div>
                 <h3>Call Us</h3>
-                <p>+234 806 745 6793</p>
+                <p>+234 8033496293<br>+234 8033496293</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -84,7 +84,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>Email Us</h3>
-                <p>abdul@abdulfortech.com</p>
+                <p>sgsengineeringenterprises@gmail.com</p>
               </div>
             </div><!-- End Info Item -->
 
