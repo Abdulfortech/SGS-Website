@@ -19,8 +19,8 @@
       <div>
         <h4>Contact</h4>
         <p>
-          <strong>Phone:</strong> <span>+234 806 745 6793</span><br>
-          <strong>Email:</strong> <span>abdul@abdulfortech.com</span><br>
+          <strong>Phone:</strong> <span>+234 803 349 6293</span><br>
+          <strong>Email:</strong> <span>sgsengineeringenterprises@gmail.com</span><br>
         </p>
       </div>
     </div>

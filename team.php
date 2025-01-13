@@ -29,7 +29,7 @@
 
 </head>
 
-<body class="index-page">
+<body class="page">
   <?php include_once('components/navbar.php');?>
   
   <main class="main">
@@ -41,7 +41,7 @@
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
               <h1>Team</h1>
-              <p class="mb-0">Management and Employees of SGS Engineering </p>
+              <p class="mb-0">The management and top level employees of SGS Engineering</p>
             </div>
           </div>
         </div>
@@ -59,56 +59,100 @@
     <!-- Teams Section -->
     <section id="agents" class="agents section">
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Our Management Team</h2>
-        <p>SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services</p>
-      </div><!-- End Section Title -->
-
       <div class="container">
 
-        <div class="row gy-5">
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <div class="pic"><img src="assets/img/abdulfortech.png" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>HUZAIFA IBRAHIM GWADABE</h4>
-                <span>Chief Executive Officer</span>
-                <div class="social">
-                  
-                </div>
+      <div class="row gy-5">
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="member">
+            <div class="pic">
+              <center>
+                <img src="assets/img/sgs/Shehu-garba.jpeg" class="img-fluid" alt="">
+              </center>
+            </div>
+            <div class="member-info">
+              <h4>Shehu Garba Sa'id</h4>
+              <span>Chief Executive Officer</span>
+              <a href="tel:+2348033496293" class="text-dark">+2348033496293</a>
+              <div class="social">
+                
               </div>
             </div>
-          </div><!-- End Team Member -->
+          </div>
+        </div><!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="pic"><img src="assets/img/sgs/auwal.jpeg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Engr-Tech Auwal Abubakar</h4>
-                <span>Chief Executive Officer</span>
-                <div class="social">
-                  
-                </div>
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="member">
+            <div class="pic">
+              <center>
+                <img src="assets/img/sgs/henry-mkpong.jpeg" class="img-fluid" alt="">
+              </center>
+            </div>
+            <div class="member-info">
+              <h4>Mr Henry Mkpong</h4>
+              <span>Director Commercial Services</span>
+              <a href="tel:+2349126888517" class="text-dark">09126888517</a>
+              <div class="social">
+                
               </div>
             </div>
-          </div><!-- End Team Member -->
+          </div>
+        </div><!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="member">
-              <div class="pic"><img src="assets/img/abdulfortech.png" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Mr Henry Mkpong</h4>
-                <span>Director commercial services SGS</span>
-                <div class="social">
-                  <!-- <i class="fa fa-phone"></i> -->
-                </div>
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="member">
+            <div class="pic">
+              <center>
+                <img src="assets/img/sgs/auwal.jpeg" class="img-fluid" alt="">
+              </center>
+            </div>
+            <div class="member-info">
+              <h4>Engr-Tech Auwal Abubakar </h4>
+              <span>Director CNG Conversion </span>
+              <a href="tel:+2348060330200" class="text-dark">08060330200</a>
+              <div class="social">
+                
               </div>
             </div>
-          </div><!-- End Team Member -->
+          </div>
+        </div><!-- End Team Member -->
 
-        </div>
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+          <div class="member">
+            <div class="pic">
+              <center>
+                <img src="assets/img/sgs/huzaifa-ibrahim.jpeg" class="img-fluid" alt="">
+              </center>
+            </div>
+            <div class="member-info">
+              <h4>Huzaifa Ibrahim Gwadabe</h4>
+              <span>Chief Civil Engineer</span>
+              <a href="#" class="text-dark">00000000000</a>
+              <div class="social">
+                
+              </div>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+        
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+          <div class="member">
+            <div class="pic">
+              <center>
+                <img src="assets/img/sgs/m.jpeg" class="img-fluid" alt="">
+              </center>
+            </div>
+            <div class="member-info">
+              <h4>Huzaifa Ibrahim Gwadabe</h4>
+              <span>Chief Civil Engineer</span>
+              <a href="#" class="text-dark">00000000000</a>
+              <div class="social">
+                
+              </div>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+      </div>
 
       </div>
 
@@ -129,6 +173,7 @@
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
 
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>

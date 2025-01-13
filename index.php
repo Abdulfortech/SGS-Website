@@ -409,10 +409,15 @@
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
-              <div class="pic"><img src="assets/img/abdulfortech.png" class="img-fluid" alt=""></div>
+              <div class="pic">
+                <center>
+                  <img src="assets/img/sgs/Shehu-garba.jpeg" class="img-fluid" alt="">
+                </center>
+              </div>
               <div class="member-info">
-                <h4>Abdullahi Aminu Mudi</h4>
+                <h4>Shehu Garba Sa'id</h4>
                 <span>Chief Executive Officer</span>
+                <a href="tel:+2348033496293" class="text-dark">+2348033496293</a>
                 <div class="social">
                   
                 </div>
@@ -420,25 +425,37 @@
             </div>
           </div><!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="pic"><img src="assets/img/abdulfortech.png" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Abdullahi Aminu Mudi</h4>
-                <span>Chief Executive Officer</span>
-                <div class="social">
-                  
-                </div>
-              </div>
-            </div>
-          </div><!-- End Team Member -->
-
+          
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
-              <div class="pic"><img src="assets/img/abdulfortech.png" class="img-fluid" alt=""></div>
+              <div class="pic">
+                <center>
+                  <img src="assets/img/sgs/henry-mkpong.jpeg" class="img-fluid" alt="">
+                </center>
+              </div>
               <div class="member-info">
-                <h4>Abdullahi Aminu Mudi</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Mr Henry Mkpong</h4>
+                <span>Director Commercial Services</span>
+                <a href="tel:+2349126888517" class="text-dark">09126888517</a>
+                <div class="social">
+                  
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="member">
+              <div class="pic">
+                <center>
+                  <img src="assets/img/sgs/auwal.jpeg" class="img-fluid" alt="">
+                </center>
+              </div>
+              <div class="member-info">
+                <h4>Engr Auwal Abubakar </h4>
+                <span>Director CNG Conversion </span>
+                <a href="tel:+2348060330200" class="text-dark">08060330200</a>
                 <div class="social">
                   
                 </div>
@@ -447,6 +464,10 @@
           </div><!-- End Team Member -->
 
         </div>
+
+        <center>
+            <a href="team.php" class="btn main-btn my-3">View More</a>
+        </center>
 
       </div>
 
@@ -492,15 +513,15 @@
           <div class="swiper-wrapper">
 
             <div class="swiper-slide">
-              <div class="testimonial-item">
+              <div class="testimonial-item ">
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                 SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services
                 </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/abdulfortech.png" class="testimonial-img" alt="">
+                <div class="profile">
+                  <!-- <img src="assets/img/abdulfortech.png" class="testimonial-img" alt=""> -->
                   <h3>Abdullahi Aminu Mudi</h3>
                   <h4>Ceo &amp; Founder</h4>
                 </div>
@@ -515,8 +536,8 @@
                 <p>
                 SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services
                 </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/abdulfortech.png" class="testimonial-img" alt="">
+                <div class="profile">
+                  <!-- <img src="assets/img/abdulfortech.png" class="testimonial-img" alt=""> -->
                   <h3>Abdullahi Aminu Mudi</h3>
                   <h4>Ceo &amp; Founder</h4>
                 </div>
@@ -531,8 +552,8 @@
                 <p>
                 SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services
                 </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/abdulfortech.png" class="testimonial-img" alt="">
+                <div class="profile">
+                  <!-- <img src="assets/img/abdulfortech.png" class="testimonial-img" alt=""> -->
                   <h3>Abdullahi Aminu Mudi</h3>
                   <h4>Ceo &amp; Founder</h4>
                 </div>
@@ -547,8 +568,8 @@
                 <p>
                 SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services
                 </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/abdulfortech.png" class="testimonial-img" alt="">
+                <div class="profile">
+                  <!-- <img src="assets/img/abdulfortech.png" class="testimonial-img" alt=""> -->
                   <h3>Abdullahi Aminu Mudi</h3>
                   <h4>Ceo &amp; Founder</h4>
                 </div>
@@ -563,8 +584,8 @@
                 <p>
                 SGS Engineering services SGS Engineering services SGS Engineering services SGS Engineering services
                 </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/abdulfortech.png" class="testimonial-img" alt="">
+                <div class="profile">
+                  <!-- <img src="assets/img/abdulfortech.png" class="testimonial-img" alt=""> -->
                   <h3>Abdullahi Aminu Mudi</h3>
                   <h4>Ceo &amp; Founder</h4>
                 </div>

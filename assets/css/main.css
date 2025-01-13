@@ -934,6 +934,12 @@ section,
   margin-bottom: 50px;
 }
 
+.agents .member .pic img{
+  height: 300px;
+  width: 270px;
+  border-radius: 100%;
+}
+
 .agents .member .member-info {
   background-color: var(--surface-color);
   color: color-mix(in srgb, var(--default-color), transparent 20%);
@@ -1001,7 +1007,7 @@ section,
   box-sizing: content-box;
   padding: 30px;
   margin: 40px 30px;
-  min-height: 320px;
+  min-height: 200px;
   display: flex;
   flex-direction: column;
   text-align: center;
