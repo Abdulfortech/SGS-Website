@@ -66,7 +66,7 @@
           <div class="member">
             <div class="pic">
               <center>
-                <img src="assets/img/sgs/Shehu-garba.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/SGS/Shehu-garba.jpeg" class="img-fluid" alt="">
               </center>
             </div>
             <div class="member-info">
@@ -84,7 +84,7 @@
           <div class="member">
             <div class="pic">
               <center>
-                <img src="assets/img/sgs/henry-mkpong.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/SGS/henry-mkpong.jpeg" class="img-fluid" alt="">
               </center>
             </div>
             <div class="member-info">
@@ -102,7 +102,7 @@
           <div class="member">
             <div class="pic">
               <center>
-                <img src="assets/img/sgs/auwal.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/SGS/auwal.jpeg" class="img-fluid" alt="">
               </center>
             </div>
             <div class="member-info">
@@ -120,7 +120,7 @@
           <div class="member">
             <div class="pic">
               <center>
-                <img src="assets/img/sgs/huzaifa-ibrahim.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/SGS/huzaifa-ibrahim.jpeg" class="img-fluid" alt="">
               </center>
             </div>
             <div class="member-info">
@@ -138,7 +138,7 @@
           <div class="member">
             <div class="pic">
               <center>
-                <img src="assets/img/sgs/m.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/SGS/m.jpeg" class="img-fluid" alt="">
               </center>
             </div>
             <div class="member-info">

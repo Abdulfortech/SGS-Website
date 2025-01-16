@@ -73,11 +73,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (1).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (1).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>A CNG Boat Engine</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (1).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (1).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -86,11 +86,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (2).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (2).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>CNG Cylinder</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (2).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Cylinder"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (2).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Cylinder"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -99,11 +99,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (3).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (3).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Engine</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (3).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Engine"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (3).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Engine"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -112,11 +112,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (4).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (4).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>A truck ready for convertion to CNG</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (4).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A truck ready for convertion to CNG"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (4).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A truck ready for convertion to CNG"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -125,11 +125,11 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (5).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (5).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>A truck ready for convertion to CNG</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (5).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A truck ready for convertion to CNG"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (5).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A truck ready for convertion to CNG"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -138,11 +138,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (6).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (6).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>CNG Cylinder convertion for trucks</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (6).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Cylinder convertion for trucks"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (6).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Cylinder convertion for trucks"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -151,11 +151,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (1).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (1).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Construction of CNG Convertion Plant</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (1).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (1).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -164,11 +164,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (2).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (2).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Construction of CNG Convertion Plant</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (2).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (2).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -177,11 +177,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (3).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (3).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>CNG Filling Station</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (3).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Filling Station"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (3).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Filling Station"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -190,11 +190,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (19).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (19).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Construction of CNG Convertion Plant</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (19).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (19).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -203,11 +203,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (28).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (28).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Construction of CNG Convertion Plant</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (28).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (28).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -216,11 +216,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (29).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (29).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Construction of CNG Convertion Plant</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (29).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (29).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Construction of CNG Convertion Plant"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -229,11 +229,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (7).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (7).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>A CNG Cylinder for boat</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (7).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Cylinder for boat"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (7).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Cylinder for boat"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -242,11 +242,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (8).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (8).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>A CNG Truck</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (8).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Truck"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (8).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Truck"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -255,11 +255,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img.jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>A Converted Car</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A converted car"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A converted car"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -268,11 +268,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (4).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (4).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Our Engineers Working on CNG Truck</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (4).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (4).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -281,11 +281,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (8).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (8).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Our Engineers Working on CNG Truck</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (8).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (8).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -294,11 +294,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (10).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (10).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Our Engineers Working on CNG Truck</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (10).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (10).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -307,11 +307,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (11).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (11).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Our Engineers Working on CNG Truck</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (11).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (11).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -320,11 +320,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (12).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (12).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Our Engineers Working on CNG Truck</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (12).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (12).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -333,11 +333,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (13).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (13).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Our Engineers Working on CNG Truck</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (13).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (13).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Our Engineers Working on CNG Truck"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -346,11 +346,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (14).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (14).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>CNG Truck</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (14).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Truck"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (14).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Truck"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -359,11 +359,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (15).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (15).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>CNG Truck</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (15).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Truck"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (15).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Truck"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -372,11 +372,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/sgs (30).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (30).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Converted Engine</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/sgs (30).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/sgs (30).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>

@@ -9,7 +9,7 @@
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <link href="assets/img/sgs/logo.png" rel="icon">
+  <link href="assets/img/SGS/logo.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
@@ -41,7 +41,7 @@
       <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
         <div class="carousel-item active">
-          <img src="assets/img/sgs/bg (1).webp" alt="">
+          <img src="assets/img/SGS/bg (1).webp" alt="">
           <div class="carousel-container">
             <div>
               <p>Welcome To</p>
@@ -53,7 +53,7 @@
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
-          <img src="assets/img/sgs/bg (1).jpg" alt="">
+          <img src="assets/img/SGS/bg (1).jpg" alt="">
           <div class="carousel-container">
             <div>
             <!-- <p>Welcome To</p> -->
@@ -65,7 +65,7 @@
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
-          <img src="assets/img/sgs/bg (1).jpeg" alt="">
+          <img src="assets/img/SGS/bg (1).jpeg" alt="">
           <div class="carousel-container">
             <div>
             <!-- <p>Welcome To</p> -->
@@ -123,15 +123,15 @@
           <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
             <div class="row gy-4">
               <div class="col-lg-6">
-                <img src="assets/img/sgs/img (2).jpeg" class="img-fluid" alt="">
+                <img src="assets/img/SGS/img (2).jpeg" class="img-fluid" alt="">
               </div>
               <div class="col-lg-6">
                 <div class="row gy-4">
                   <div class="col-lg-12">
-                    <img src="assets/img/sgs/bg (1).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/bg (1).jpeg" class="img-fluid" alt="">
                   </div>
                   <div class="col-lg-12">
-                    <img src="assets/img/sgs/sgs (29).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/sgs (29).jpeg" class="img-fluid" alt="">
                   </div>
                 </div>
               </div>
@@ -348,11 +348,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (1).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (1).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>A CNG Boat Engine</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (1).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (1).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -361,11 +361,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (2).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (2).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>CNG Cylinder</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (2).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Cylinder"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (2).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="CNG Cylinder"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -374,11 +374,11 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/sgs/img (3).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (3).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>Engine</h4>
                       <div class="portfolio-links">
-                        <a href="assets/img/sgs/img (3).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Engine"><i class="bi bi-plus"></i></a>
+                        <a href="assets/img/SGS/img (3).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Engine"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                       </div>
                     </div>
@@ -411,7 +411,7 @@
             <div class="member">
               <div class="pic">
                 <center>
-                  <img src="assets/img/sgs/Shehu-garba.jpeg" class="img-fluid" alt="">
+                  <img src="assets/img/SGS/Shehu-garba.jpeg" class="img-fluid" alt="">
                 </center>
               </div>
               <div class="member-info">
@@ -430,7 +430,7 @@
             <div class="member">
               <div class="pic">
                 <center>
-                  <img src="assets/img/sgs/henry-mkpong.jpeg" class="img-fluid" alt="">
+                  <img src="assets/img/SGS/henry-mkpong.jpeg" class="img-fluid" alt="">
                 </center>
               </div>
               <div class="member-info">
@@ -449,7 +449,7 @@
             <div class="member">
               <div class="pic">
                 <center>
-                  <img src="assets/img/sgs/auwal.jpeg" class="img-fluid" alt="">
+                  <img src="assets/img/SGS/auwal.jpeg" class="img-fluid" alt="">
                 </center>
               </div>
               <div class="member-info">

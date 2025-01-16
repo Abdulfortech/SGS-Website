@@ -92,15 +92,15 @@
           <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
             <div class="row gy-4">
               <div class="col-lg-6">
-                <img src="assets/img/sgs/img (8).jpeg" class="img-fluid" alt="">
+                <img src="assets/img/SGS/img (8).jpeg" class="img-fluid" alt="">
               </div>
               <div class="col-lg-6">
                 <div class="row gy-4">
                   <div class="col-lg-12">
-                    <img src="assets/img/sgs/img (1).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img (1).jpeg" class="img-fluid" alt="">
                   </div>
                   <div class="col-lg-12">
-                    <img src="assets/img/sgs/img.jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/img.jpeg" class="img-fluid" alt="">
                   </div>
                 </div>
               </div>
@@ -119,7 +119,7 @@
       <div class="container">
 
         <div class="row justify-content-around gy-4">
-          <div class="features-image col-lg-6" data-aos="fade-up" data-aos-delay="100"><img src="assets/img/sgs/bg (1).jpeg" alt=""></div>
+          <div class="features-image col-lg-6" data-aos="fade-up" data-aos-delay="100"><img src="assets/img/SGS/bg (1).jpeg" alt=""></div>
 
           <div class="col-lg-5 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
             <h3>Objectives</h3>
