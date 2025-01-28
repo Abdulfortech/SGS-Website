@@ -9,7 +9,7 @@
   <meta name="keywords" content="CNG Project, GAS, Oil, CNG, CNG Convertion">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/SGS/logo.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
