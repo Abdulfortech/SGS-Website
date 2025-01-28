@@ -125,8 +125,8 @@
             </div>
             <div class="member-info">
               <h4>Huzaifa Ibrahim Gwadabe</h4>
-              <span>Chief Civil Engineer</span>
-              <a href="#" class="text-dark">00000000000</a>
+              <span>Projects Manager</span>
+              <a href="#" class="text-dark"></a>
               <div class="social">
                 
               </div>
@@ -142,9 +142,9 @@
               </center>
             </div>
             <div class="member-info">
-              <h4>Huzaifa Ibrahim Gwadabe</h4>
-              <span>Chief Civil Engineer</span>
-              <a href="#" class="text-dark">00000000000</a>
+              <h4>Engr. Auwalu Alhaji Muddarsi</h4>
+              <span>Construction Manager</span>
+              <a href="#" class="text-dark"></a>
               <div class="social">
                 
               </div>

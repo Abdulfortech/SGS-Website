@@ -382,6 +382,593 @@
                     </div>
                   </div>
                 </div>
+
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (31).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (31).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (32).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (32).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (33).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (33).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (34).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (34).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (35).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (35).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (36).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (36).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (37).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (37).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (38).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (38).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (39).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (39).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (40).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (40).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (41).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (41).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (42).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (42).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (43).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (43).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (44).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (44).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (45).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (45).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (46).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (46).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (47).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (47).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (48).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (48).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (49).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (49).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (50).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (50).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (51).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (51).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (52).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (52).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (53).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (53).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (54).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (54).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (55).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (55).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (56).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (56).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (57).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (57).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (58).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (58).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (59).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (59).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (60).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (60).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (61).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (61).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (62).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (62).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (63).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (63).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (64).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (64).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (65).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (65).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (66).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (66).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (67).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (67).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (68).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (68).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (69).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (69).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (70).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (70).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (71).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (71).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (72).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (72).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (73).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (73).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (74).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (74).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/sgs (75).jpeg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                    <h4>CNG Convertion</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/sgs (75).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Converted Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 
             </div>
 

@@ -91,7 +91,7 @@
           </div>
 
           <div class="col-lg-8">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+            <form action="process.php" method="post" class="php-email-form" >
               <div class="row gy-4">
 
                 <div class="col-md-6">
@@ -120,6 +120,18 @@
 
               </div>
             </form>
+            <!-- Display error message if email failed -->
+            <?php if (isset($_GET['error']) && $_GET['error'] === 'email_failed'): ?>
+              <div class="alert alert-danger" role="alert">
+                Failed to send your message. Please try again.
+              </div>
+            <?php endif; ?>
+             <!-- Display error message if email failed -->
+             <?php if (isset($_GET['success']) && $_GET['success'] === 'email_sent'): ?>
+              <div class="alert alert-danger" role="alert">
+                Your message has been delivered. Thank You.
+              </div>
+            <?php endif; ?>
           </div><!-- End Contact Form -->
 
         </div>
@@ -141,10 +153,11 @@
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
 
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
