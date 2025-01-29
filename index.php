@@ -47,7 +47,7 @@
               <p>Welcome To</p>
               <h2><span>SGS Engineering</span></h2>
               <h5>A firm of experienced, resourceful and committed professionals, offering cross-sectoral enginnering services.</h5>
-              <a href="https://wa.me/+2348067456793/?text=Hi" class="btn-get-started"><i class="fab fa-whatsapp"></i> Contact Us</a>
+              <a href="https://wa.me/+2348033496293/?text=Hi" class="btn-get-started"><i class="fab fa-whatsapp"></i> Contact Us</a>
             </div>
           </div>
         </div><!-- End Carousel Item -->
@@ -59,7 +59,7 @@
             <!-- <p>Welcome To</p> -->
               <h2><span>Construction Services</span></h2>
               <h5>Our firm is excellent in delivering construction services ranging from apartment buildings, to road and bridges.</h5>
-              <a href="https://wa.me/+2348067456793/?text=Hi" class="btn-get-started"><i class="fab fa-whatsapp"></i> Contact Us</a>
+              <a href="https://wa.me/+2348033496293/?text=Hi" class="btn-get-started"><i class="fab fa-whatsapp"></i> Contact Us</a>
             </div>
           </div>
         </div><!-- End Carousel Item -->
@@ -71,7 +71,7 @@
             <!-- <p>Welcome To</p> -->
               <h2><span>Oil and Gas</span></h2>
               <h5>We are offering services on oil and gas, especially on CNG supply, convertion of vehicles and building its infrastructure.</h5>
-              <a href="https://wa.me/+2348067456793/?text=Hi" class="btn-get-started"><i class="fab fa-whatsapp"></i> Contact Us</a>
+              <a href="https://wa.me/+2348033496293/?text=Hi" class="btn-get-started"><i class="fab fa-whatsapp"></i> Contact Us</a>
             </div>
           </div>
         </div><!-- End Carousel Item -->
