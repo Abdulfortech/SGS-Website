@@ -73,6 +73,630 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (1).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (1).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (2).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (2).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (3).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (3).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (4).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (4).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (5).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (5).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (6).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (6).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (7).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (7).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (9).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (9).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (10).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (10).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (11).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (11).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (12).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (12).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (13).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (13).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (14).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (14).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (15).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (15).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (16).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (16).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (17).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (17).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (18).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (18).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (19).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (19).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (20).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (20).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (21).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (21).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (22).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (22).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (23).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (23).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (24).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (24).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (26).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (26).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (27).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (27).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (28).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (28).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (29).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (29).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (30).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (30).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (32).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (32).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (33).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (33).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (34).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (34).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (35).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (35).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (36).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (36).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (37).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (37).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (38).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (38).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (39).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (39).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (40).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (40).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (41).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (41).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (42).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (42).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (43).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (43).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (44).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (44).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (45).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (45).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (46).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (46).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (47).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (47).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (48).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (48).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (49).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (49).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (50).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (50).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/SGS/new/new (51).jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                      <h4>Industrial Construction</h4>
+                      <div class="portfolio-links">
+                        <a href="assets/img/SGS/new/new (51).jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
+                        <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                
+                
+                
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
                     <img src="assets/img/SGS/img (1).jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                       <h4>A CNG Boat Engine</h4>

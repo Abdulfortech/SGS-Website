@@ -348,9 +348,9 @@
                 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                   <div class="portfolio-wrap">
-                    <img src="assets/img/SGS/img (1).jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/SGS/new/new (25).jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                      <h4>A CNG Boat Engine</h4>
+                      <h4>Industrial Construction</h4>
                       <div class="portfolio-links">
                         <a href="assets/img/SGS/img (1).jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="A CNG Boat Engine"><i class="bi bi-plus"></i></a>
                         <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
